@@ -1,4 +1,8 @@
-### Hi there 👋
+
+![Greeting GIF](/Greeting.gif)
+
+
+
 
 <!--
 **rociodw/rociodw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
