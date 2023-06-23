@@ -1,34 +1,28 @@
 
 ![Greeting GIF](/Greeting.gif)
 
+
 ### Languages and tools:
-<img width="50px" 
-    height="50px" 
-    style="margin: 20px"
+<img width="60px" 
+    style="margin: 30px"
     src="./dev-logos/html.png"> 
-<img width="50px" 
-    height="50px" 
-    style="margin: 20px"
+<img width="60px" 
+    style="margin: 30px"
     src="./dev-logos/css.png">
-<img width="50px" 
-    height="50px" 
-    style="margin: 20px"
+<img width="60px" 
+    style="margin: 30px"
     src="./dev-logos/js.png">
-<img width="50px" 
-    height="50px" 
-    style="margin: 20px"
+<img width="60px" 
+    style="margin: 30px"
     src="./dev-logos/react.png">
-<img width="50px" 
-    height="50px" 
-    style="margin: 20px"
+<img width="60px" 
+    style="margin: 30px"
     src="./dev-logos/bootstrap.png">
-<img width="50px" 
-    height="50px" 
-    style="margin: 20px"
+<img width="60px" 
+    style="margin: 30px"
     src="./dev-logos/sass.png">
-<img width="50px" 
-    height="50px" 
-    style="margin: 20px"
+<img width="60px" 
+    style="margin: 30px"
     src="./dev-logos/git.png"> 
 
 
