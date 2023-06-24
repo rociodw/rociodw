@@ -1,4 +1,4 @@
-<p align="center" style="filter:saturate(1.5)">
+<p align="center">
   <img src="./Greeting.gif" alt="Greeting GIF" />
 </p>
 
