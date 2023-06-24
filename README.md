@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="./Greeting.gif" alt="Greeting GIF" />
+</p>
 
-![Greeting GIF](/Greeting.gif)
+
 
 
 ### Languages and tools:
