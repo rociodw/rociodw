@@ -2,7 +2,7 @@
   <img src="./Greeting.gif" alt="Greeting GIF" />
 </p>
 
-<div style="margin:50px">I consider myself a design and web enthusiast. That’s why few years ago I decided to change my profesional life path to become a web developer. </div>
+_I consider myself a design and web enthusiast. That’s why few years ago I decided to change my profesional life path to become a web developer._
 
 
 
